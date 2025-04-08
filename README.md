@@ -68,7 +68,7 @@ Find IPs associated with target's SSL certificates.
 
 ## Tools Used
 Tool	Purpose	GitHub
--- Subfinder	Subdomain discovery	https://github.com/projectdiscovery/subfinder
+- Subfinder	Subdomain discovery	https://github.com/projectdiscovery/subfinder
 -- ShuffleDNS	Mass DNS resolver	https://github.com/projectdiscovery/shuffledns
 -- dnsx	DNS toolkit	https://github.com/projectdiscovery/dnsx
 -- Naabu	Port scanner	https://github.com/projectdiscovery/naabu
