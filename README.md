@@ -68,18 +68,18 @@ Find IPs associated with target's SSL certificates.
 
 ## Tools Used
 Tool	Purpose	GitHub
-Subfinder	Subdomain discovery	https://github.com/projectdiscovery/subfinder
-ShuffleDNS	Mass DNS resolver	https://github.com/projectdiscovery/shuffledns
-dnsx	DNS toolkit	https://github.com/projectdiscovery/dnsx
-Naabu	Port scanner	https://github.com/projectdiscovery/naabu
-HTTPX	HTTP probing	https://github.com/projectdiscovery/httpx
-Katana	Crawler	https://github.com/projectdiscovery/katana
-Nuclei	Vulnerability scanning	https://github.com/projectdiscovery/nuclei
-Gau	URL collector	https://github.com/lc/gau
-Dalfox	XSS scanner	https://github.com/hahwul/dalfox
-Shodan CLI	Internet intelligence	https://cli.shodan.io/
+-- Subfinder	Subdomain discovery	https://github.com/projectdiscovery/subfinder
+-- ShuffleDNS	Mass DNS resolver	https://github.com/projectdiscovery/shuffledns
+-- dnsx	DNS toolkit	https://github.com/projectdiscovery/dnsx
+-- Naabu	Port scanner	https://github.com/projectdiscovery/naabu
+-- HTTPX	HTTP probing	https://github.com/projectdiscovery/httpx
+-- Katana	Crawler	https://github.com/projectdiscovery/katana
+-- Nuclei	Vulnerability scanning	https://github.com/projectdiscovery/nuclei
+-- Gau	URL collector	https://github.com/lc/gau
+-- Dalfox	XSS scanner	https://github.com/hahwul/dalfox
+-- Shodan CLI	Internet intelligence	https://cli.shodan.io/
 
 ## Credit
 
-https://x.com/TheMsterDoctor1/status/1905471835128373665
-https://github.com/ifconfig-me/cool-bugbounty-oneliners?tab=readme-ov-file
+ -- https://x.com/TheMsterDoctor1/status/1905471835128373665
+ -- https://github.com/ifconfig-me/cool-bugbounty-oneliners?tab=readme-ov-file
